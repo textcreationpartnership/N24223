@@ -112,18 +112,20 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:032019_0000_0FF0AC15DE2D8A48"/>
-            <pb facs="tcp:032019_0001_0FF0AC0020B133A0" rendition="simple:additions"/>
+            <pb facs="unknown:032019_0000_0FF0AC15DE2D8A48"/>
+            <pb facs="unknown:032019_0001_0FF0AC0020B133A0"
+                rendition="simple:additions"/>
             <p>The Suicide.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:032019_0002_0FF0AC0221B9F110" rendition="simple:additions"/>
+            <pb facs="unknown:032019_0002_0FF0AC0221B9F110"
+                rendition="simple:additions"/>
             <p>THE SUICIDE. A DIALOGUE Exhibited on the Stage at the Public Commencement By YALE-COLLEGE, <hi>SEPT. 13</hi>th, <hi>M.DCC.XCVII.</hi>
             </p>
             <p>Litchfield: Printed by T. Collier.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:032019_0003_0FF0AC041856DD90"/>
+            <pb facs="unknown:032019_0003_0FF0AC041856DD90"/>
             <head>Dramatis Perſonae.</head>
             <list>
                <item>ALPHONSO BELLAMY, <hi>Mr.</hi> DAY.</item>
@@ -135,7 +137,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:032019_0004_0FF0AC072C62D6B8"/>
+            <pb facs="unknown:032019_0004_0FF0AC072C62D6B8"/>
             <head>THE SUICIDE.</head>
             <div n="1" type="scene">
                <head>SCENE I.</head>
@@ -176,7 +178,7 @@
                   <l>Pity! Can I pity him,</l>
                   <l>Who, without pitying me, has ruined half</l>
                   <l>
-                     <pb n="6" facs="tcp:032019_0005_0FF0AC08B1453478"/>Of my eſtate? Who not content with all</l>
+                     <pb n="6" facs="unknown:032019_0005_0FF0AC08B1453478"/>Of my eſtate? Who not content with all</l>
                   <l>A father's fond partiality could grant,</l>
                   <l>With an expenſive education, with the means</l>
                   <l>Of gaining wealth, and meriting eſteem,</l>
@@ -223,7 +225,7 @@
                   <l>Fly open to embrace him.</l>
                </sp>
                <sp>
-                  <pb n="7" facs="tcp:032019_0006_0FF0AC0A3804C260"/>
+                  <pb n="7" facs="unknown:032019_0006_0FF0AC0A3804C260"/>
                   <speaker>ORVILL.</speaker>
                   <l>Then revoke</l>
                   <l>Thy former declarations;—I will haſte,</l>
@@ -272,7 +274,7 @@
                   <l>My blood chills at the thought! To tear the ſoul</l>
                   <l>From its loved home,—to ceaſe to be,—or far,</l>
                   <l>
-                     <pb n="8" facs="tcp:032019_0007_0FF0AC0C3A952D58"/>Far worſe, plunge into unknown, endleſs being!—</l>
+                     <pb n="8" facs="unknown:032019_0007_0FF0AC0C3A952D58"/>Far worſe, plunge into unknown, endleſs being!—</l>
                   <l>O! horror! horror!—Yet I've once reſolved—</l>
                   <l>Hah! Shall a few wild ſtarts of conſcience fright</l>
                   <l>Me from my ſteadfaſt purpoſe!—Conſcience, huſh!</l>
@@ -313,7 +315,7 @@
                   <speaker>ALPHONSO.</speaker>
                   <l>Generous friend, retire.</l>
                   <l>
-                     <pb n="9" facs="tcp:032019_0008_0FF0AC0E428245E0"/>Thy preſence once I loved; but now I hate thee.</l>
+                     <pb n="9" facs="unknown:032019_0008_0FF0AC0E428245E0"/>Thy preſence once I loved; but now I hate thee.</l>
                   <l>Forgive me: 'Tis no fault of mine.—I hate</l>
                   <l>The light,—I hate the world,—I hate myſelf.</l>
                   <l>Leave me one moment to myſelf; then come</l>
@@ -355,7 +357,7 @@
                   <l>My unexperienced ſoul?—The anxious doubt,</l>
                   <l>The long, the deep ſuſpence, and quick relief;</l>
                   <l>
-                     <pb n="10" facs="tcp:032019_0009_0FF0AC1047C92618"/>The ſudden change from joy to grief, from grief</l>
+                     <pb n="10" facs="unknown:032019_0009_0FF0AC1047C92618"/>The ſudden change from joy to grief, from grief</l>
                   <l>To joy,—the deſperate menaces of fear,—</l>
                   <l>The flattering promiſes of hope,—all pleaſed</l>
                   <l>While preſent, and when gone, the craving void,</l>
@@ -401,7 +403,7 @@
                   <l>Yes, a juſt GOD</l>
                   <l>Has brought thee from the rayleſs ſhades of night,</l>
                   <l>
-                     <pb n="11" facs="tcp:032019_0010_0FF0AC12A39B6310"/>To endleſs being.—For this, as thy Creator,</l>
+                     <pb n="11" facs="unknown:032019_0010_0FF0AC12A39B6310"/>To endleſs being.—For this, as thy Creator,</l>
                   <l>Exact ſubmiſſion to his holy pleaſure,</l>
                   <l>Moſt juſtly he demands.</l>
                </sp>
@@ -445,7 +447,7 @@
                   <l>Of man, in prudent foreſight, far outſtretch</l>
                   <l>The powers of brutal nature, He, the wiſe,</l>
                   <l>
-                     <pb n="12" facs="tcp:032019_0011_0FF0AC1427223428"/>The great, the juſt, would truſt to reaſoning minds</l>
+                     <pb n="12" facs="unknown:032019_0011_0FF0AC1427223428"/>The great, the juſt, would truſt to reaſoning minds</l>
                   <l>What he commits to ſerpents, flies and worms.</l>
                </sp>
                <sp>
@@ -489,7 +491,7 @@
                   <l>'Tis brought to paſs by the Almighty Power,</l>
                   <l>And in exact accordance with his will.</l>
                   <l>
-                     <pb n="13" facs="tcp:032019_0012_0FF0983D8F9522C0"/>As we know not the future providence</l>
+                     <pb n="13" facs="unknown:032019_0012_0FF0983D8F9522C0"/>As we know not the future providence</l>
                   <l>Of God, to follow his commands may be</l>
                   <l>A crime as heinous, as to diſregard them.</l>
                   <l>An argument than this, more weak and vain,</l>
@@ -533,7 +535,7 @@
                   <l>Is ſo much barbarous tyranny and murder.</l>
                </sp>
                <sp>
-                  <pb n="14" facs="tcp:032019_0013_0FF0AC1852FC4E48"/>
+                  <pb n="14" facs="unknown:032019_0013_0FF0AC1852FC4E48"/>
                   <speaker>ORVILL.</speaker>
                   <l>No member of a nation ever gave,</l>
                   <l>Or ever had it in his power to give</l>
@@ -576,7 +578,7 @@
                   <l>Hereafter? Wretched as thou art on earth,</l>
                   <l>Canſt thou be certain, in the eternal world,</l>
                   <l>
-                     <pb n="15" facs="tcp:032019_0014_0FF0AC1AEB6ABB18"/>Thy wretchedneſs will ceaſe? Think what ſurprize</l>
+                     <pb n="15" facs="unknown:032019_0014_0FF0AC1AEB6ABB18"/>Thy wretchedneſs will ceaſe? Think what ſurprize</l>
                   <l>Muſt ſeize thy anguiſhed ſoul, if unprepared,</l>
                   <l>Thou ruſh into the manſions of the dead!</l>
                   <l>How would thy boſom freeze with horror, when</l>
@@ -612,7 +614,7 @@
                   <l>To end their lives, than thou, to end thy own.</l>
                   <l>Their brothers, and their ſiſters, and their friends,</l>
                   <l>
-                     <pb n="16" facs="tcp:032019_0015_0FF0AC1C9512CA68"/>Pierced with like grief, might follow their example;</l>
+                     <pb n="16" facs="unknown:032019_0015_0FF0AC1C9512CA68"/>Pierced with like grief, might follow their example;</l>
                   <l>Their children theirs, and in this manner, death</l>
                   <l>And conſternation ſpread throughout the world.</l>
                </sp>
@@ -663,7 +665,7 @@
                   <l>I lately copied from thy father's lips.</l>
                </sp>
                <sp>
-                  <pb n="17" facs="tcp:032019_0016_0FF0AC1E91A8A140"/>
+                  <pb n="17" facs="unknown:032019_0016_0FF0AC1E91A8A140"/>
                   <speaker>ALPHONSO.</speaker>
                   <l>Tranſporting thought! But can this tale be true?</l>
                   <l>Juſt reaſons for offence, I ſurely gave him;</l>
@@ -711,7 +713,7 @@
                   <l>And bade me carry it, with ſpeed, to you.</l>
                </sp>
                <sp>
-                  <pb n="18" facs="tcp:032019_0017_0FF0AC20B97F6028"/>
+                  <pb n="18" facs="unknown:032019_0017_0FF0AC20B97F6028"/>
                   <speaker>ABRAHAM.</speaker>
                   <l>'Tis like his ſitting out upon a journey,</l>
                   <l>And therefore wants to wheedle out of me</l>
@@ -758,7 +760,7 @@
                   <l>Haſte for thy life.</l>
                </sp>
                <sp>
-                  <pb n="19" facs="tcp:032019_0018_0FF0AC2402320300"/>
+                  <pb n="19" facs="unknown:032019_0018_0FF0AC2402320300"/>
                   <speaker>SERVANT.</speaker>
                   <p>Oh, my poor maſter!—
 <stage>[Going.]</stage>
@@ -809,7 +811,7 @@
                   <l>No leſs a crime to caſt thee from my boſom.</l>
                </sp>
                <sp>
-                  <pb n="20" facs="tcp:032019_0019_0FF0AC25877D9658"/>
+                  <pb n="20" facs="unknown:032019_0019_0FF0AC25877D9658"/>
                   <speaker>ALPHONSO.</speaker>
                   <l>And have I yet a father! Oh! thy goodneſs</l>
                   <l>Confounds, o'erwhelms my ſoul! Do thou but ſay</l>
